@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         //this is a test edit from 0596
         //edit from 1021 local
+        //edit form 0596 at 10:29
     }
 }
